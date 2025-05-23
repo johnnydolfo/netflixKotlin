@@ -17,8 +17,7 @@
         app:layout_constraintWidth="0dp"
         app:srcCompat="@drawable/r"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="-3dp"
-        tools:ignore="MissingConstraints"/>
+        tools:layout_editor_absoluteY="-3dp" />
 
     <ImageView
         android:id="@+id/Logo"
@@ -26,8 +25,7 @@
         android:layout_height="46dp"
         app:srcCompat="@drawable/dark"
         tools:layout_editor_absoluteX="90dp"
-        tools:layout_editor_absoluteY="123dp"
-        tools:ignore="MissingConstraints"/>
+        tools:layout_editor_absoluteY="123dp" />
 
     <Button
         android:id="@+id/button_minhaLista"
@@ -52,8 +50,7 @@
         tools:layout_editor_absoluteX="143dp"
         tools:layout_editor_absoluteY="240dp"
         android:paddingLeft="13dp"
-        android:backgroundTint="#ff0000"
-        tools:ignore="MissingConstraints"/>
+        android:backgroundTint="#ff0000" />
 
     <Button
         android:id="@+id/detalhes"
@@ -66,8 +63,7 @@
         app:layout_constraintHeight="wrap_content"
         app:layout_constraintWidth="wrap_content"
         tools:layout_editor_absoluteX="284dp"
-        tools:layout_editor_absoluteY="240dp"
-        tools:ignore="MissingConstraints"/>
+        tools:layout_editor_absoluteY="240dp" />
 
     <TextView
         android:id="@+id/textView"
@@ -76,8 +72,7 @@
         android:text="@string/chocante"
         tools:layout_editor_absoluteX="55dp"
         tools:layout_editor_absoluteY="201dp"
-        android:textColor="@color/white"
-        tools:ignore="MissingConstraints"/>
+        android:textColor="@color/white" />
 
     <TextView
         android:id="@+id/textView2"
@@ -86,8 +81,7 @@
         android:text="@string/arrepiante"
         tools:layout_editor_absoluteX="174dp"
         tools:layout_editor_absoluteY="200dp"
-        android:textColor="@color/white"
-        tools:ignore="MissingConstraints"/>
+        android:textColor="@color/white" />
 
     <TextView
         android:id="@+id/textView3"
@@ -96,8 +90,7 @@
         android:text="@string/sinistro"
         tools:layout_editor_absoluteX="301dp"
         tools:layout_editor_absoluteY="201dp"
-        android:textColor="@color/white"
-        tools:ignore="MissingConstraints"/>
+        android:textColor="@color/white" />
 
     <TextView
         android:id="@+id/textView4"
@@ -106,8 +99,7 @@
         android:text="@string/lancamentos"
         tools:layout_editor_absoluteX="35dp"
         tools:layout_editor_absoluteY="331dp"
-        android:textColor="@color/white"
-        tools:ignore="MissingConstraints"/>
+        android:textColor="@color/white" />
 
     <ImageView
         android:id="@+id/imageView10"
@@ -115,8 +107,7 @@
         android:layout_height="61dp"
         app:srcCompat="@drawable/wandinha"
         tools:layout_editor_absoluteX="151dp"
-        tools:layout_editor_absoluteY="368dp"
-        tools:ignore="MissingConstraints"/>
+        tools:layout_editor_absoluteY="368dp" />
 
     <ImageView
         android:id="@+id/imageView7"
@@ -124,8 +115,7 @@
         android:layout_height="62dp"
         app:srcCompat="@drawable/queensgambit"
         tools:layout_editor_absoluteX="35dp"
-        tools:layout_editor_absoluteY="367dp"
-        tools:ignore="MissingConstraints"/>
+        tools:layout_editor_absoluteY="367dp" />
 
     <ImageView
         android:id="@+id/imageView8"
@@ -133,8 +123,7 @@
         android:layout_height="62dp"
         app:srcCompat="@drawable/doona"
         tools:layout_editor_absoluteX="274dp"
-        tools:layout_editor_absoluteY="368dp"
-        tools:ignore="MissingConstraints"/>
+        tools:layout_editor_absoluteY="368dp" />
 
     <TextView
         android:id="@+id/textView5"
@@ -143,8 +132,7 @@
         android:text="João Rodolfo Berger Andrade"
         android:textColor="@color/white"
         tools:layout_editor_absoluteX="113dp"
-        tools:layout_editor_absoluteY="478dp"
-        tools:ignore="MissingConstraints"/>
+        tools:layout_editor_absoluteY="478dp" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -152,8 +140,7 @@
         android:layout_height="67dp"
         app:srcCompat="@drawable/logo"
         tools:layout_editor_absoluteX="46dp"
-        tools:layout_editor_absoluteY="25dp"
-        tools:ignore="MissingConstraints"/>
+        tools:layout_editor_absoluteY="25dp" />
 
     <TextView
         android:id="@+id/textView6"
@@ -162,8 +149,7 @@
         android:text="@string/series"
         tools:layout_editor_absoluteX="120dp"
         tools:layout_editor_absoluteY="47dp"
-        android:textColor="@color/white"
-        tools:ignore="MissingConstraints"/>
+        android:textColor="@color/white" />
 
     <TextView
         android:id="@+id/textView7"
@@ -172,8 +158,7 @@
         android:text="@string/filmes"
         tools:layout_editor_absoluteX="197dp"
         tools:layout_editor_absoluteY="47dp"
-        android:textColor="@color/white"
-        tools:ignore="MissingConstraints"/>
+        android:textColor="@color/white" />
 
     <TextView
         android:id="@+id/textView8"
@@ -182,7 +167,6 @@
         android:text="@string/lista"
         android:textColor="@color/white"
         tools:layout_editor_absoluteX="281dp"
-        tools:layout_editor_absoluteY="47dp"
-        tools:ignore="MissingConstraints"/>
+        tools:layout_editor_absoluteY="47dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
