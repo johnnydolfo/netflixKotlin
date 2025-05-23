@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Нетфликс</string>
+    <string name="series">Ряд</string>
+    <string name="lancamentos">Релизы</string>
+    <string name="filmes">Фильмы</string>
+    <string name="lista">Мой список</string>
+    <string name="chocante">Шокирующий</string>
+    <string name="arrepiante">Противный</string>
+    <string name="sinistro">Зловещий</string>
+    <string name="assistir">Присутствовать</string>
+    <string name="minhalista">МОЙ СПИСОК</string>
+    <string name="detalhes">ПОДРОБНОСТИ</string>
+</resources>
